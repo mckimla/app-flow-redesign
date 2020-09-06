@@ -10,7 +10,7 @@ body {
 
 
 h1 {
-  font: bold 3.0em Merriweather, sans-serif;
+  font: bold 2.8em Merriweather, sans-serif;
   height: 65px;
 }
 
@@ -43,3 +43,22 @@ display: block;
 }
 
 
+.userflow {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  width: 360px;
+  height: 590px;
+}
+
+
+.redesign {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  width: 550px;
+}
